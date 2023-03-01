@@ -54,9 +54,9 @@ Here is a list of columns of the dataset:
 - See total spend by department
 
   Department H is the department that spent the most on purchasing with $4.7 M or 26.47% of the total spending.  The second department that spent the most is Department E with $3.5 M or 19.82% of the total spending. The rest total spend of every department can be seen in the following pictures:
-<p align="center">
+
 ![Screenshot_2](https://user-images.githubusercontent.com/65482851/222129920-a0aaefa0-2b9e-4ceb-9612-7811c4ec9012.jpg)
- </p>
+
 ![Screenshot_4](https://user-images.githubusercontent.com/65482851/222129959-16e83d06-ac3a-4681-ad88-b44b52030587.jpg)
 
 - Highest PO spent 
